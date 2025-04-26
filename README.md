@@ -1,4 +1,4 @@
-# VUE.JS E-Commerce Project - Mechanical Keyboard Store
+# VUE.JS E-Commerce Project - Keyboard Store
 
 ### :camera: Screenshot
 
